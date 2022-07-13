@@ -1,0 +1,12 @@
+location:
+  address: 330 Cranbourne Rd, Frankston VIC 3199
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12549.716883757143!2d145.1483480078125!3d-38.15346309999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad60b1986a7df35%3A0x50cbd2f5fac252b7!2sMomentum%20Cafe!5e0!3m2!1sen!2sau!4v1657619408114!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/MomentumCafeKaringal/
+  - platform: email
+    link: mailto:momelville@hotmail.com
+  - platform: phone
+    link: tel:0387722985
